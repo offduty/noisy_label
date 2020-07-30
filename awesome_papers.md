@@ -1,17 +1,16 @@
-> Some important papers published in noisy label. 
+Some important papers published in noisy label. 
 
 **Notice:**
-<span class="bluebox">
-All the papers are collected from:
 
-* premier research conferences
+> All the papers are collected from:
+>* premier research conferences
     * CVPR
     * ICCV
     * NeurIPS
     * ICML
     * ICLR
-* or Key Researcher 
-* or Top Organization
+>* or Key Researcher 
+>* or Top Organization
     * Google
     * Stanford University
 
