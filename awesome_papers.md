@@ -4,7 +4,6 @@ Some important papers published in noisy label.
 
 All the papers are collected from:
 * premier research conferences  
-
     * CVPR
     * ICCV
     * NeurIPS
@@ -14,6 +13,7 @@ All the papers are collected from:
 * or Top Organization
     * Google
     * Stanford University
+* arXiv
 
 
 ### 2020
